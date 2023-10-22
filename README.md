@@ -34,8 +34,9 @@ Here are some ideas to get you started:
 <br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<p align="center">
-
+<p>
+✨Me chamo Daniel Lasso sou desenvolvedor Full Stack certificado pelo Senai, aqui estão algumas das tecnologias que eu uso no meu dia a dia 👇
+<br><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,tailwind,js,nodejs,express,py,linux,github,md,discord,postman,&perline=14" />
   </a>
