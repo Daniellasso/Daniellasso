@@ -38,7 +38,12 @@ Here are some ideas to get you started:
 ✨Me chamo Daniel Lasso sou desenvolvedor Full Stack certificado pelo Senai, aqui estão algumas das tecnologias que eu uso no meu dia a dia 👇
 <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,tailwind,js,nodejs,express,py,linux,github,md,discord,postman,&perline=14" />
+    <p>Frontend</p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,&perline=14" />
+    <p>Backend</p>
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,py,discord,,&perline=14" />
+    <p>Dev</p>
+    <img src="https://skillicons.dev/icons?i=vscode,md,github,linux,postman,&perline=14" />
   </a>
 </p>
   
